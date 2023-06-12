@@ -1,0 +1,15 @@
+F:\downloads\Учеба\123\bin\Debug\net7.0\123.exe
+F:\downloads\Учеба\123\bin\Debug\net7.0\123.deps.json
+F:\downloads\Учеба\123\bin\Debug\net7.0\123.runtimeconfig.json
+F:\downloads\Учеба\123\bin\Debug\net7.0\123.dll
+F:\downloads\Учеба\123\bin\Debug\net7.0\123.pdb
+F:\downloads\Учеба\123\obj\Debug\net7.0\123.csproj.AssemblyReference.cache
+F:\downloads\Учеба\123\obj\Debug\net7.0\123.GeneratedMSBuildEditorConfig.editorconfig
+F:\downloads\Учеба\123\obj\Debug\net7.0\123.AssemblyInfoInputs.cache
+F:\downloads\Учеба\123\obj\Debug\net7.0\123.AssemblyInfo.cs
+F:\downloads\Учеба\123\obj\Debug\net7.0\123.csproj.CoreCompileInputs.cache
+F:\downloads\Учеба\123\obj\Debug\net7.0\123.dll
+F:\downloads\Учеба\123\obj\Debug\net7.0\refint\123.dll
+F:\downloads\Учеба\123\obj\Debug\net7.0\123.pdb
+F:\downloads\Учеба\123\obj\Debug\net7.0\123.genruntimeconfig.cache
+F:\downloads\Учеба\123\obj\Debug\net7.0\ref\123.dll
